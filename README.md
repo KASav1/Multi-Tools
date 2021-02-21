@@ -10,6 +10,9 @@ So I am in no way responsible you are the only ones responsible for your actions
 * Install python, preferably 3.8
 https://www.python.org/downloads/release/python-380/
 
+* And install nodejs
+https://nodejs.org/en/
+
 After that go to the "src" folder, right click on "node_modules" 
 and extract yourself here, then you go to the folder before and launch the "Multi Tools"
 
